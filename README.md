@@ -21,3 +21,10 @@ Features:
   2.2) Data size ()
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
+   
+How to Use:
+
+Select the desired sorting algorithm from the algorithm selector.
+Adjust the visualization speed and data size using the provided controls.
+Generate new data for sorting experiments.
+Visualize the step-by-step execution of the selected algorithm, accompanied by real-time complexity information.
